@@ -1,7 +1,7 @@
 # Trash-Trucker
 The IoT-based waste management project aims to revolutionize traditional waste collection methods by leveraging IoT technology.It introduces a smart system that monitors waste bin levels in real-time and optimizes waste collection processes.
 
-#System Components
+# System Components
 User Management: Authentication and management of admin and collector accounts.
 Waste Bin Management: Registration, updating, and deactivation of waste bins.
 Waste Level Monitoring: Integration of sensors for real-time monitoring of waste levels.
@@ -12,7 +12,7 @@ Reporting and Analytics: Generation of reports on waste generation trends and co
 Traditional waste management relies on manual monitoring and collection methods.
 Lack of real-time data leads to inefficiencies, such as overfilled bins and inefficient collection routes.
 
-#Objectives:
+# Objectives:
 
 Automate waste monitoring and notification processes.
 Optimize waste collection routes and schedules.
